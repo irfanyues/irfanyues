@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @irfanyues
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @irfanyues, Geological Engineering.
+- 👀 I’m interested in programming with geo science.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on github.
+- 📫 yorulmazirfan@gmail.com
 
 <!---
 irfanyues/irfanyues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
